@@ -1,0 +1,37 @@
+{
+  "export": "survey-window-a",
+  "recorded": "2019-11-04",
+  "device": "field-disk-3",
+  "cards": [
+    {
+      "plot": "14-north",
+      "observer": "desk",
+      "correlation": "cGxvdC0xNC1ub3J0aA==",
+      "note": "corners set, brush still standing on the east line"
+    },
+    {
+      "plot": "window-a",
+      "observer": "desk",
+      "correlation": "c3VydmV5LXdpbmRvdy1h",
+      "note": "import name before the vault slug was chosen"
+    },
+    {
+      "plot": "reading",
+      "observer": "import",
+      "correlation": "cmVhZGluZy1saXN0LXEz",
+      "note": "list header from the same disk"
+    },
+    {
+      "plot": "unfiled",
+      "observer": "import",
+      "correlation": "aXNpcHswczFudF81ZTRyY2hfZzF0aHVifQ==",
+      "note": "row had no matching markdown card; key stored verbatim"
+    },
+    {
+      "plot": "sample",
+      "observer": "desk",
+      "correlation": "Y2Fpcm4tc2FtcGxlLW5vdGU=",
+      "note": "placeholder card from the loader dry run"
+    }
+  ]
+}
